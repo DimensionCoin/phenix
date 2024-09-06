@@ -1,0 +1,21 @@
+{
+  "name": "My Crypto Wallet App",
+  "short_name": "CryptoWallet",
+  "description": "Securely store your private keys and seed phrases",
+  "start_url": "/signin",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/phenixlogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/phenixlogo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
